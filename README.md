@@ -10,3 +10,5 @@ Na sam koniec dodać tak, aby możliwa była regulacja prędkości silnika oraz 
 S1 – ON/OFF,
 S2–UP, 
 S3-DOWN.
+
+![image](https://github.com/WojciechowskiMichal/Zmiana-predkosci-silnika-pradu-stalego-za-pomoc-potencjometru/assets/129738418/a024ae6b-f5e0-4724-b67d-eb6d962af552)
